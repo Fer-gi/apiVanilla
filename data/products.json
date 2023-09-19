@@ -1,0 +1,23 @@
+
+[
+  { "id": "1", "name": "Laptop", "price": 800, "description": "Computadoras" },
+  {
+    "id": "2",
+    "name": "Teléfono inteligente",
+    "price": 500,
+    "description": "Electrónica"
+  },
+  { "id": "3", "name": "Tableta", "price": 300, "description": "Electrónica" },
+  {
+    "id": "4",
+    "name": "Auriculares inalámbricos",
+    "price": 100,
+    "description": "Accesorios"
+  },
+  {
+    "id": "271ee502-714c-4c0c-93c6-8e65fae0c417",
+    "name": "Cámara digital ",
+    "description": "fotografía",
+    "price": 100
+  }
+]
